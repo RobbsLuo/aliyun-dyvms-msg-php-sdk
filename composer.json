@@ -1,5 +1,5 @@
 {
-  "name": "RobbsLuo/aliyun-dyvms-msg-php-sdk",
+  "name": "robbsluo/aliyun-dyvms-msg-php-sdk",
   "description": "Aliyun VMS message SDK for PHP",
   "keywords": ["aliyun", "VMS", "sdk"],
   "type": "library",
